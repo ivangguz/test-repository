@@ -6,7 +6,7 @@ export default function Header(){
             <nav className="container relative flex flex-wrap items-center justify-between mx-auto p-8">
                 <Link className="font-bond text-3xl" href='/'>Home</Link>
                 <div className="space-x-4 text-xl">
-                    <Link href='/performance'>Ejemplo de actualizacion</Link>
+                    <Link href='/performance'>Performances</Link>
                     <Link href='/reliability'>Reliability</Link>
                     <Link href='/scale'>Scale</Link>
                 </div>
